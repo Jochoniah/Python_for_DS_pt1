@@ -1,0 +1,1 @@
+- this practise covers data preparation, data visualization, basic maths and statistics, web scraping, and plotly using python programming language
